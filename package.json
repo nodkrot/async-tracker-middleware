@@ -1,0 +1,25 @@
+{
+  "name": "async-tracker-middleware",
+  "version": "0.0.0",
+  "description": "Track asynchronous action states in redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodkrot/async-tracker-middleware.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "actions",
+    "async"
+  ],
+  "author": "Vyacheslav Alayev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodkrot/async-tracker-middleware/issues"
+  },
+  "homepage": "https://github.com/nodkrot/async-tracker-middleware#readme"
+}
